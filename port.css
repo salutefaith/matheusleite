@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: #f00; /* Vermelho */
+    text-align: center;
+}
+
+a {
+    color: #f00; /* Vermelho */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #800; /* Vermelho escuro */
+}
+
+p {
+    color: #f00; /* Vermelho */
+    
+
+}
